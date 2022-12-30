@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="100" height="50" tilewidth="18" tileheight="20" infinite="0" nextlayerid="6" nextobjectid="116">
+ <tileset firstgid="1" source="../../Surface.tsx"/>
+ <layer id="1" name="Background" width="100" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztw7ENAAAMAiDTt33eM7pAQi+pqqqqqqqqqqqqqqqqqqqqqqqqqu8HfrCJ8A==
+  </data>
+ </layer>
+ <layer id="2" name="Ground" width="100" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt2skNwjAQRmGjmC7YqoBK2I7c2cqhACIqgyM1MFYi5YIiYjsaO7xPenczv7jFGAAx3CKVqtx+G3vk+9uAXGxtVWm1XwLHbXEYsUcqStsEfeyQFvYAAAAAAAAAAAAAAAB9eBZNr0L7NXAm1pipNJPm0oLvRry9x7/XZi0bbOrvP3fSnk0667JF2yYhO6Lis8W3+8bYU8tS/sOrulAh90whTUe5/0k6Sxfp6rGH9v2GtMndNj08/xvatxvSHqFv077bEDaJ+T7tm+W+S8y3ad8pp3203/xvsQUREREREfXRB+COEzs=
+  </data>
+ </layer>
+</map>
